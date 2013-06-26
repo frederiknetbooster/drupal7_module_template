@@ -8,7 +8,7 @@ A module called "foo", needing to use the hook "hook_bar_baz" would create the f
 - function foo_bar_baz(...)
 
 Note that even though "hook" is part of the hook name in the documentation, it should not be included 
-in the function name. The parameter list vary, depending on the hook.
+in the function name. The list of parameters depend on the hook.
 
 ## [module_name].install
 
