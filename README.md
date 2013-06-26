@@ -11,7 +11,8 @@ Note that even though "hook" is part of the hook name in the documentation, it s
 in the function name. The list of parameters depend on the hook.
 
 ## [module_name].install
+Install and uninstall hooks.
 
 ## [module_name].info
-Module Name meta data and setup (css, js, dependencies, ...)
+Module Name meta data and setup (css, js, dependencies, ...)<br />
 [Drupal 7 .info properties](https://drupal.org/node/542202)
