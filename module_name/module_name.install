@@ -1,0 +1,17 @@
+<?php
+
+/**
+ * @file 
+ * Module installation hooks
+ * @author NetBooster Agency
+ */
+
+/**
+ * Implements hook_install().
+ */
+function module_name_install() {}
+
+/**
+ * Implements hook_uninstall().
+ */
+function module_name_uninstall() {}
